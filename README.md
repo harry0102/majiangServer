@@ -1,0 +1,2 @@
+# majiangServer
+majiangServer
