@@ -1,7 +1,7 @@
 {
-	"name":"MJ",
+	"name":"majiang",
 	"version":"0.0.1",
-	"description":"Ma jiang",
+	"description":"majiangServer",
 	"dependencies":{
 		"express":"4.12.3",
 		"socket.io":"*"
